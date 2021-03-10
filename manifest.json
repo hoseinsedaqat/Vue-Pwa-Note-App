@@ -1,1 +1,31 @@
-{"name":"Note","short_name":"Note","theme_color":"#333","icons":[{"src":"./img/note_icons/android-icon-192x192-dunplab-manifest-37607.png","sizes":"192x192","type":"image/png"},{"src":"./img/note_icons/apple-icon-152x152-dunplab-manifest-37607.png","sizes":"512x512","type":"image/png"},{"src":"./img/note_icons/android-icon-192x192-dunplab-manifest-37607.png","sizes":"192x192","type":"image/png","purpose":"maskable"},{"src":"./img/note_icons/apple-icon-152x152-dunplab-manifest-37607.png","sizes":"512x512","type":"image/png","purpose":"maskable"}],"start_url":".","display":"standalone","background_color":"#333"}
+{
+  "name":"Note",
+  "short_name":"Note",
+  "theme_color":"#333",
+  "icons":[
+    {
+      "src":"./img/note_icons/android-icon-192x192-dunplab-manifest-37607.png",
+      "sizes":"192x192",
+      "type":"image/png"
+    },
+    {
+      "src":"./img/note_icons/apple-icon-152x152-dunplab-manifest-37607.png",
+      "sizes":"512x512",
+      "type":"image/png"
+    },
+    {
+      "src":"./img/note_icons/android-icon-192x192-dunplab-manifest-37607.png",
+      "sizes":"192x192",
+      "type":"image/png",
+      "purpose":"maskable"
+    },
+    {
+      "src":"./img/note_icons/apple-icon-152x152-dunplab-manifest-37607.png",
+      "sizes":"512x512","type":"image/png",
+      "purpose":"maskable"
+    }
+  ],
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#333"
+}
